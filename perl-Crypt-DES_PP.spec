@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Crypt
-%define	pnam	DES_PP
+%define		pdir	Crypt
+%define		pnam	DES_PP
 Summary:	Crypt::DES_PP Perl module - DES implementation in pure Perl
 Summary(pl):	Modu³ Perla Crypt::DES_PP - czysto perlowa implementacja DES
 Name:		perl-Crypt-DES_PP
