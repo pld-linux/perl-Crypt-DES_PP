@@ -2,7 +2,7 @@
 %define		pdir	Crypt
 %define		pnam	DES_PP
 Summary:	Crypt::DES_PP Perl module - DES implementation in pure Perl
-Summary(pl):	Modu≥ Perla Crypt::DES_PP - czysto perlowa implementacja DES
+Summary(pl.UTF-8):   Modu≈Ç Perla Crypt::DES_PP - czysto perlowa implementacja DES
 Name:		perl-Crypt-DES_PP
 Version:	1.00
 Release:	3
@@ -19,9 +19,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The module is 100% compatible to Crypt::DES but is implemented
 entirely in Perl. The module implements the Crypt::CBC interface.
 
-%description -l pl
-Ten modu≥ jest w 100% kompatybilny z Crypt::DES, ale jest
-zaimplementowany ca≥kowicie w Perlu. Ma zaimplementowany interfejs
+%description -l pl.UTF-8
+Ten modu≈Ç jest w 100% kompatybilny z Crypt::DES, ale jest
+zaimplementowany ca≈Çkowicie w Perlu. Ma zaimplementowany interfejs
 Crypt::CBC.
 
 %prep
