@@ -1,6 +1,6 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Crypt
 %define		pnam	DES_PP
+%include	/usr/lib/rpm/macros.perl
 Summary:	Crypt::DES_PP Perl module - DES implementation in pure Perl
 Summary(pl.UTF-8):	Moduł Perla Crypt::DES_PP - czysto perlowa implementacja DES
 Name:		perl-Crypt-DES_PP
@@ -10,6 +10,7 @@ License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	2fdfee7afd3ffabdc85297b15e60d270
+URL:		http://search.cpan.org/dist/Crypt-DES_PP/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
