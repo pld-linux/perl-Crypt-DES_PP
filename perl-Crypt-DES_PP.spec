@@ -4,7 +4,7 @@ Summary:	Crypt::DES_PP Perl module - DES implementation in pure Perl
 Summary(pl.UTF-8):	Moduł Perla Crypt::DES_PP - czysto perlowa implementacja DES
 Name:		perl-Crypt-DES_PP
 Version:	1.00
-Release:	4
+Release:	5
 License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
